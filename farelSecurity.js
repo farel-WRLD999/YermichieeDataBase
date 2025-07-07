@@ -33,7 +33,7 @@
     "6287762745232@s.whatsapp.net": { 
     "registered": true 
     }, 
-    "6289699890494@s.whatsapp.net": {
+    "6283824416514@s.whatsapp.net": {
     "registered": true
     },
     "62895415235000@s.whatsapp.net": { 
