@@ -71,6 +71,9 @@
     },
     "6281946252038@s.whatsapp.net": { 
     "registered": true 
+    },
+    "213795943150@s.whatsapp.net": { 
+    "registered": true 
     }
     
   }
