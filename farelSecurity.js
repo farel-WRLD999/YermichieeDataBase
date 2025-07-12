@@ -52,7 +52,7 @@
     "registered": true 
     }, 
     "6282160476046@s.whatsapp.net": { 
-    "registered": true 
+    "registered": false
     },
     "6281228524770@s.whatsapp.net": { 
     "registered": true 
